@@ -1,3 +1,13 @@
+Changes: 
+========
+* 4-29-2014: 
+
+    * modified by @nikvdp to allow the module to be packaged via browserify for
+      in-browser segmentation. Since browserify doesn't allow dynamically
+      requires only the .useDefault() method works. No longer able to custom load
+      tokenizers. 
+
+           
 中文分词模块
 ==============
 
