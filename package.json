@@ -18,7 +18,6 @@
   "dependencies": {},
   "browserify": { "transform": [ "brfs" ] },
   "devDependencies": {
-    "brfs":         "~1.2.0",
     "should":       "*",
     "mocha":        ">= 1.2",
     "uglify-js":    ">= 1.3.3"
